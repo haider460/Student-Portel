@@ -1,0 +1,9 @@
+.registrar-action{
+    display: flex;
+    justify-content: center;
+
+}
+
+.registrar-action:button:first-child{
+    
+}
